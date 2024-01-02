@@ -1,6 +1,6 @@
 ﻿// using System.Math;
 // See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+// Console.WriteLine("Hello, World!");
 
 // int a = 5;
 // int b = 40;
@@ -17,6 +17,7 @@ Console.WriteLine("Hello, World!");
 //     // Если a == c - не верно
 //     Console.WriteLine("Не является");
 // }
+
 
 int N = 10;
 int i = -N;
